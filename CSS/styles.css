@@ -87,8 +87,7 @@ ol {
 .address-item:focus {
 	color: #434455;
 }
-.hero {
-}
+
 .dark {
 	background: #2e2f42;
 }
@@ -201,7 +200,8 @@ ol {
 }
 .cellar {
 }
-
+.hero {
+}
 .logotype-cellar {
 	font-family: "Raleway";
 
