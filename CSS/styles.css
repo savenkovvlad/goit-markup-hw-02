@@ -4,6 +4,7 @@ body {
 	color: 2e2f42;
 	letter-spacing: 0.02em;
 	line-height: 1.5;
+	color: #2e2f42;
 }
 
 a {
@@ -79,7 +80,6 @@ ol {
 }
 
 .address-item {
-	background: #ffffff;
 }
 .address-item:hover {
 	color: #4d5ae5;
@@ -110,7 +110,6 @@ ol {
 .text-button {
 	font-weight: 500;
 	font-size: 16px;
-	line-height: 24px;
 
 	letter-spacing: 0.04em;
 	line-height: 1.5;
@@ -132,7 +131,6 @@ ol {
 	line-height: 1.2;
 	font-weight: 500;
 	font-size: 20px;
-	line-height: 24px;
 
 	letter-spacing: 0.02em;
 
@@ -154,6 +152,7 @@ ol {
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 40px;
+	line-height: 1.11;
 
 	letter-spacing: 0.02em;
 	text-transform: capitalize;
@@ -165,18 +164,9 @@ ol {
 .item-img-examplex {
 }
 .work-team {
-	line-height: 1.11;
+	background: #f4f4fd;
 }
-.header-work-team {
-	font-weight: 700;
-	font-size: 36px;
-	line-height: 40px;
 
-	letter-spacing: 0.02em;
-	text-transform: capitalize;
-
-	color: #2e2f42;
-}
 .list-img-team {
 }
 .img-team {
@@ -185,7 +175,6 @@ ol {
 	line-height: 1.2;
 	font-weight: 500;
 	font-size: 20px;
-	line-height: 24px;
 
 	letter-spacing: 0.02em;
 
@@ -240,7 +229,6 @@ ol {
 	font-family: inherit;
 	font-weight: 500;
 	font-size: 16px;
-	line-height: 24px;
 
 	letter-spacing: 0.04em;
 
