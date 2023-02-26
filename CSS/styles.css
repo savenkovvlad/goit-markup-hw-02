@@ -1,7 +1,6 @@
 body {
 	font-family: "Roboto", sans-serif;
 	size: 16px;
-
 	letter-spacing: 0.02em;
 	line-height: 1.5;
 	color: #2e2f42;
@@ -31,11 +30,13 @@ ol {
 
 .header {
 }
+
 .back {
 	background: #ffffff;
 
 	border-bottom: 1px solid #e7e9fc;
 }
+
 .header-nav {
 }
 
@@ -49,6 +50,7 @@ ol {
 	text-transform: uppercase;
 	color: #2e2f42;
 }
+
 .logo {
 	color: #4d5ae5;
 }
@@ -56,9 +58,11 @@ ol {
 .nav-site {
 	background: #ffffff;
 }
+
 .nav-site:hover {
 	color: #4d5ae5;
 }
+
 .nav-site:focus {
 	color: #434455;
 }
@@ -68,18 +72,23 @@ ol {
 
 	color: #2e2f42;
 }
+
 .link {
 }
+
 .address {
 }
+
 .address-list {
 }
+
 .address-item {
 }
 
 .address-item:hover {
 	color: #4d5ae5;
 }
+
 .address-item:focus {
 	color: #434455;
 }
@@ -87,6 +96,7 @@ ol {
 .dark {
 	background: #2e2f42;
 }
+
 .header-hero {
 	font-weight: 700;
 	font-size: 56px;
@@ -97,12 +107,14 @@ ol {
 
 	color: #ffffff;
 }
+
 .btn {
 	cursor: pointer;
 	background: #4d5ae5;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 	border-radius: 4px;
 }
+
 .text-button {
 	font-weight: 500;
 	font-size: 16px;
@@ -113,16 +125,22 @@ ol {
 
 	color: #ffffff;
 }
+
 .advice {
 }
+
 .hero {
 }
+
 .visually-hidden {
 }
+
 .list-advice {
 }
+
 .item-block {
 }
+
 .title-block {
 	line-height: 1.2;
 	font-weight: 500;
@@ -132,6 +150,7 @@ ol {
 
 	color: #2e2f42;
 }
+
 .description-block {
 	font-weight: 400;
 	font-size: 16px;
@@ -141,9 +160,11 @@ ol {
 
 	color: #434455;
 }
+
 .examplex {
 	line-height: 1.11;
 }
+
 .header-examplex {
 	font-weight: 700;
 	font-size: 36px;
@@ -155,18 +176,23 @@ ol {
 
 	color: #2e2f42;
 }
+
 .list-img-examplex {
 }
+
 .item-img-examplex {
 }
+
 .work-team {
 	background: #f4f4fd;
 }
 
 .list-img-team {
 }
+
 .img-team {
 }
+
 .workers-name {
 	line-height: 1.2;
 	font-weight: 500;
@@ -176,6 +202,7 @@ ol {
 
 	color: #2e2f42;
 }
+
 .position {
 	font-weight: 400;
 	font-size: 16px;
@@ -185,6 +212,7 @@ ol {
 
 	color: #434455;
 }
+
 .cellar {
 }
 
@@ -200,6 +228,7 @@ ol {
 
 	color: #f4f4fd;
 }
+
 .logo-cellar {
 	color: #4d5ae5;
 }
@@ -213,14 +242,17 @@ ol {
 
 	color: #e7e9fc;
 }
+
 .dark-back {
 	background: #2e2f42;
 }
 
 .list-btn {
 }
+
 .btn-item {
 }
+
 .buttons-nav {
 	font-family: inherit;
 	font-weight: 500;
@@ -238,10 +270,13 @@ ol {
 	border-radius: 4px;
 	line-height: 1.5;
 }
+
 .list-product {
 }
+
 .item-product {
 }
+
 .title-img {
 	font-weight: 500;
 	font-size: 20px;
@@ -250,6 +285,7 @@ ol {
 
 	color: #2e2f42;
 }
+
 .title-service {
 	font-weight: 400;
 	font-size: 16px;
@@ -259,14 +295,17 @@ ol {
 
 	color: #434455;
 }
+
 .buttons-nav:focus {
 	color: #4d5ae5;
 }
+
 .buttons-nav:hover {
 	color: #ffffff;
 	background: #404bbf;
 	box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
+
 .text-button:hover {
 	color: #404bbf;
 }
