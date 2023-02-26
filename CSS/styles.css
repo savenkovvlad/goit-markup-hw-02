@@ -1,7 +1,7 @@
 body {
 	font-family: "Roboto", sans-serif;
 	size: 16px;
-	color: 2e2f42;
+
 	letter-spacing: 0.02em;
 	line-height: 1.5;
 	color: #2e2f42;
@@ -75,12 +75,8 @@ ol {
 .address-list {
 }
 .address-item {
-	color: #434455;
-	font-style: normal;
 }
 
-.address-item {
-}
 .address-item:hover {
 	color: #4d5ae5;
 }
@@ -151,7 +147,7 @@ ol {
 .header-examplex {
 	font-weight: 700;
 	font-size: 36px;
-	line-height: 40px;
+
 	line-height: 1.11;
 
 	letter-spacing: 0.02em;
@@ -270,4 +266,7 @@ ol {
 	color: #ffffff;
 	background: #404bbf;
 	box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+}
+.text-button:hover {
+	color: #404bbf;
 }
